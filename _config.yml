@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:chang.shen@yale.edu"
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fa fa-linkedin-square"
       url: "https://www.linkedin.com/in/chang-shen-1ab140129/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
