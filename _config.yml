@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Chang Shen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio_photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "New Haven,CT"
   email            : "chang.shen@yale.edu"
