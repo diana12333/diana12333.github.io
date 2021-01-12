@@ -6,8 +6,8 @@ main:
     url: /year-archive/
   - title: "Collections"
     url: /collection-archive/
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
  #- title: "Courses"
  #   url: /Courses/
   - title: "Sitemap"
