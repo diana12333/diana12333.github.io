@@ -8,8 +8,8 @@ main:
     url: /collection-archive/
   - title: "CV"
     url: /cv/
- - title: "Courses"
-    url: /Courses/
+ #- title: "Courses"
+ #   url: /Courses/
   - title: "Sitemap"
     url: /sitemap/
     
