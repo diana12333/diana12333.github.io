@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: base
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -29,6 +29,11 @@ Work experience
 * **Hangzhou Dtdream Technology Co., Ltd**, Data Engineer Intern         Sep. 2018 - Apr. 2019
   * Led the algorithm group for the Daxing Urban Planning Project to track the population growth of the largest migration area in Beijing for better resource allocation.
   * Analyzed the correlation between the consumption of resources (water, electricity, etc.) and population growth; clustered the counties by developing characteristics with hierarchical clustering and k-means; implemented regression trees (CART) and GIS visualization using R and Python. Impacted policy makers’ decision making for regulation.
+
+* **Haolan Information Technology Co., Ltd**, Artificial Intelligence Research Intern       Dec. 2017 - Mar. 2018
+  * Algorithm Engineering: Collaborated in a six-person team of algorithm engineers to develop an Android application for instant classification of the Traditional Chinese Herbal Medicine (including herb, pills, powder medicine) photos.
+  * InceptionV3 implementation: Applied deep learning algorithms Inception V3 VGG19 with Tensorflow to classify over 120 different kinds of herbal medicine with 90% accuracy.
+  * Algorithm Optimization: Conducted hyper-parameter tuning, optimization and regularization and realized affine transformation, Gaussian pyramid algorithm, etc to augment the limited data set and improve data set quality.
 
 Skills
 ======
