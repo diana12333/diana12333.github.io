@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics, Sun Yat-sen University, 2014-2018
 * M.S. in Biostatistics, GitHub University, 2019-2021 (expected)
+* B.S. in Statistics, Sun Yat-sen University, 2014-2018
+
 
 Work experience
 ======
@@ -20,15 +21,19 @@ Work experience
   * Optimized the zip+4 code to census tract mapping approach in claims data by introducing coordinate mapping methods and updating the outdated code to the latest version. Improved the calculation and visualization of COVID incidence and risk.
   * Built a simulation framework using a time series clustering algorithm to effectively estimate and adjust the claims delay in Part D medicare data with 0.6% error rate.
 
-* **Yale University**, Research Assistant   
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* **Yale University**, Research Assistant           Feb, 2020 - Now
+  * Text Summarization: Fine-tuned pre-trained deep neural networks (BERT/RoBERTa/BART) using the WikiSum dataset and Pytorch to perform complex generation tasks, like generating structured summaries of scientific topics. (with Prof Dragomir R. Radev)
+  * Information Extraction: Conducted large-scale text(Academic & Medical corpus) processing and analysis with Python. Applied several NLP tools, like the Facebook clinical trial parser and criteria2query, on Electronic Health Record data.(with Dr. Guannan Gong)
+  * Misinformation about vaping study (with Human Nature Lab) 
+
+* **Hangzhou Dtdream Technology Co., Ltd**, Data Engineer Intern         Sep. 2018 - Apr. 2019
+  * Led the algorithm group for the Daxing Urban Planning Project to track the population growth of the largest migration area in Beijing for better resource allocation.
+  * Analyzed the correlation between the consumption of resources (water, electricity, etc.) and population growth; clustered the counties by developing characteristics with hierarchical clustering and k-means; implemented regression trees (CART) and GIS visualization using R and Python. Impacted policy makers’ decision making for regulation.
+
 Skills
 ======
 * Programming Tools: Python, R, SAS, Matlab , C++, C
-* Bigdata and Database: SQL(MySQL,PostgreSQL), Spark, AWS
+* Bigdata and Database: SQL(MySQL,PostgreSQL,MongoDB), Spark, AWS
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
