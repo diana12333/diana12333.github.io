@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -37,31 +37,14 @@ Work experience
 
 Skills
 ======
-* Programming Tools: Python, R, SAS, Matlab , C++, C
-* Bigdata and Database: SQL(MySQL,PostgreSQL,MongoDB), Spark, AWS
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Tools**: Python, R, SAS, Matlab, C++, C
+* **Bigdata and Database**: SQL(MySQL,PostgreSQL,MongoDB), Spark, AWS
+* **Data Science Tools**:  
+  * **R** Shiny, tidyverse, ggplot2, dplyr, stringr
+  * **Python** Numpy, sklearn, pandas, plotly
+* **Deep learning Framework**: Tensorflow(Python & R), Pytorch
+* **Web developing** 
+  * Flask, Javascript, D3.js 
+  * Git, Linux 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
