@@ -11,17 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics, Sun Yat-sen University, 2012
-* M.S. in Biostatistics, GitHub University, 2014 (expected)
+* B.S. in Statistics, Sun Yat-sen University, 2014-2018
+* M.S. in Biostatistics, GitHub University, 2019-2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Acumen, LLC**, Statistical Programming Intern   Jun, 2020 - Aug, 2020
+  * Optimized the zip+4 code to census tract mapping approach in claims data by introducing coordinate mapping methods and updating the outdated code to the latest version. Improved the calculation and visualization of COVID incidence and risk.
+  * Built a simulation framework using a time series clustering algorithm to effectively estimate and adjust the claims delay in Part D medicare data with 0.6% error rate.
 
-* Fall 2015: Research Assistant
+* **Yale University**, Research Assistant   
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
