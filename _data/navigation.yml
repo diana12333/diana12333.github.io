@@ -5,13 +5,12 @@ main:
   - title: "Posts"
     url: /blog/
   - title: "Collections"
-    url: /collection-archive/
+    url: /collection-archive-grid/
   - title: "CV"
     url: /cv/
  #- title: "Courses"
  #   url: /Courses/
-  - title: "Search"
-    url: /search/
+
     
   
   # - title: "About"
