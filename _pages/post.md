@@ -1,6 +1,6 @@
 ---
 title: Post
-layout: archive
+layout: posts
 permalink: /post/
 collection: post
 ---
