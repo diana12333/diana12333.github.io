@@ -3,4 +3,6 @@ title: Post
 layout: posts
 permalink: /post/
 collection: post
+author_profile: true
+paginate: 5
 ---
