@@ -1,4 +1,5 @@
 ---
+layout: "https://github.com/diana12333/R-project/blob/master/Old%20Faithful%20Raw%20Data%20manipulation%20and%20Modeling/OldFaithful_DanEdit.html"
 title: "O Ye of Little Faith- Forecasting Old Faithful"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
