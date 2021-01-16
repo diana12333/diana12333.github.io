@@ -48,3 +48,28 @@ Skills
   * Git, Linux 
 
 
+Courses 
+======
+* **Statistics**
+  * Linear Models
+  * Statistc Methods in Causal Inference
+  * Bayesian Statistics
+  * Survival Analysis
+  * Time Series Analysis with R/Python
+  * Theory of Statistics
+  * Nonparametric Statistics
+  * Mathematical Statistics 
+  * Applied Regression Analysis
+  * Probability Theory
+* **Computer Science and Informatics**
+  * Natural Language Processing
+  * Applied Data Mining and Machine Learning
+  * Computational Methods for Informatics
+  * Advanced Statistics Programming with SAS and R
+  * Data Structure and Algorithm
+* **Other Core**
+  * Statistical Practice I
+  * Frontiers of Public Health
+
+
+[See full resume here](/assets/doc/chang_shen_resume_11_06.pdf.pdf)
