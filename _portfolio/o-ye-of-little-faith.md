@@ -2,8 +2,8 @@
 title: "O Ye of Little Faith"
 excerpt: "Forecasting next Old Faithful eruption time, with GMM model"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/unsplash-gallery-image-3.jpg
+  teaser: assets/images/unsplash-gallery-image-3.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
