@@ -72,4 +72,4 @@ Courses
   * Frontiers of Public Health
 
 
-[See full resume here](/assets/doc/chang_shen_resume_11_06.pdf.pdf)
+[See full resume here](/assets/doc/chang_shen_resume_11_06.pdf.pdf){: .btn .btn--primary}

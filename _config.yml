@@ -99,9 +99,9 @@ author:
   location         : "New Haven,CT"
   email            : "chang.shen@yale.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:chang.shen@yale.edu"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:chang.shen@yale.edu"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chang-shen-1ab140129/"
