@@ -40,7 +40,7 @@ The original data include 72588 observations of 46 different weather stations re
 
 A shiny App was built [here](https://changshen.shinyapps.io/shiny/).
 
-<img src="/assets/gif/demo2.gif" width="40" height="40" />
+<img src="/assets/gif/demo2.gif" width="400" height="400" />
 
 {% include gallery caption="detail" %}
 
