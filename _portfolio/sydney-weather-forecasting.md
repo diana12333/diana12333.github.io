@@ -1,9 +1,10 @@
 ---
 title: "Sydney Weather Forecasting"
-excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
+excerpt: "A weather forcasting model based on the multivariate time series analysis model VAR, disucssion and compared to ARIMA and LSTM"
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/unsplash-gallery-image-2.jpg
+  caption: "Photo credit: [Google](https://www.cushmanwakefield.com/en/australia/offices/sydney)"
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
