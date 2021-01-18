@@ -1,6 +1,6 @@
 ---
 title: "Sydney Weather Forecasting"
-excerpt: "A weather forcasting model based on the multivariate time series analysis model VAR, disucssion and compared to ARIMA and LSTM"
+excerpt: "A weather forcasting model based on the multivariate time series analysis model VAR, disucssion and comparing to ARIMA and LSTM"
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/unsplash-gallery-image-2.jpg
@@ -24,8 +24,23 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+Background 
+===========
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+Weather forecasting is the application of science and technology to predict the conditions of the atmosphere for a given location and time, it relates closely to Production activities, social activities and daily activities. Forecasting weather requires interdisciplinary knowledge. Traditionally, the weather forecasting models were made by collecting as much data as possible about the current state of the atmosphere (temperature, humidity, rainfall meteorology understanding and wind), this processing can be complicated and only valid to short term forecasting. 
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+
+In this project, we applied time series analysis models to resolve the long term weather forecasting challenge. More details about the VAR/VARMA/LSTM models and the model evaluation and discussion are included in the report [here](/assets/doc/weather-forcast/VAR_MultivariateTimeSeriesAnalysis.pdf). 
+
+
+Exploratory Data Analysis 
+===========
+The original data include 72588 observations of 46 different weather stations recordings, which was extracted from the bureau of the Australia meteorology with date from 2013-03-01 to 2017-06-25. Missing data is imputed with linear Interpolation Imputation.
+
+
+A shiny App was built [here](https://changshen.shinyapps.io/shiny/).
+
+<img src="/assets/gif/demo2.gif" width="40" height="40" />
+
+{% include gallery caption="detail" %}
+
