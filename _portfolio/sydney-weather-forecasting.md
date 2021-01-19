@@ -1,6 +1,6 @@
 ---
 title: "Sydney Weather Forecasting"
-excerpt: "A weather forcasting model based on the multivariate time series analysis model VAR, disucssion and comparing to ARIMA and LSTM"
+excerpt: "A weather forecasting model based on the multivariate time series analysis model VAR, discussion and comparing to ARIMA and LSTM"
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/unsplash-gallery-image-2.jpg
@@ -16,9 +16,9 @@ gallery:
   - url: /assets/images/weather-forecasting/seasonality.png
     image_path: assets/images/weather-forecasting/seasonality.png
     alt: "placeholder image 1"
-  - url: /assets/images/weather-forecasting/Stationary.png
-    image_path: assets/images/weather-forecasting/Stationary.png
-    alt: "placeholder image 2"
+  # - url: /assets/images/weather-forecasting/Stationary.png
+  #   image_path: assets/images/weather-forecasting/Stationary.png
+  #   alt: "placeholder image 2"
   - url: /assets/images/weather-forecasting/result.jpg
     image_path: assets/images/weather-forecasting/result.jpg
     alt: "placeholder image 3"
@@ -38,18 +38,24 @@ Exploratory Data Analysis
 The original data include 72588 observations of 46 different weather stations recordings, which was extracted from the bureau of the Australia meteorology with date from 2013-03-01 to 2017-06-25. Missing data is imputed with linear Interpolation Imputation.
 
 
-A shiny App was built [here](https://changshen.shinyapps.io/shiny/).
+A shiny App was developed [here](https://changshen.shinyapps.io/shiny/).
 
 <img src="/assets/gif/demo-weather-forcasting.gif" width="800" height="800" />
 
 Methods and Discussions 
 ==========
 * **VAR(Vector Autoregression)**
+
+
    A linear model designed for multivariate time series. It’s a generalization of the AR(Autoregression) model by including the capture of the linear interdependencies among multiple time series. A baseline model and a VAR with the seasonal dummy terms are modeled in this study where the order of time series models is determined with AIC/HQ/SC/FPE. 
 * **Model Diagnose**
+
+
   Model assumption(Correlation/Heteroscedasticity/Normality) were validated.
  
 * **LSTM(Long Short Term Memory Neural Network)**
+
+
   Long Short Term Memory (LSTM) networks are a special Recurrent Neural Network (RNN) that are capable of learning long-term dependencies. Here it was applied for leveraging the multivariate time series modeling problem.
 
 
