@@ -16,6 +16,10 @@ gallery:
   - url: /assets/images/weather-forecasting/seasonality.png
     image_path: assets/images/weather-forecasting/seasonality.png
     alt: "placeholder image 1"
+    excerpt: "In Exploratory Data Analysis part, I applied serveral visualizations and analysis to better understand the raw data."
+    url: "https://github.com/diana12333/R-project/tree/master/Multivariate%20Time%20Series"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 gallery2:
   # - url: /assets/images/weather-forecasting/Stationary.png
   #   image_path: assets/images/weather-forecasting/Stationary.png
@@ -23,6 +27,10 @@ gallery2:
   - url: /assets/images/weather-forecasting/result.jpg
     image_path: assets/images/weather-forecasting/result.jpg
     alt: "placeholder image 3"
+    excerpt: "LSTM model forecasting and the VAR(order 1/order 2) are demostrated as right, blue curve is the true value. VAR(1) has the best perfomance considering the model complexity and accuracy."
+    url: "https://github.com/diana12333/R-project/tree/master/Multivariate%20Time%20Series"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 Background 
