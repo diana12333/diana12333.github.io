@@ -65,4 +65,7 @@ Methods and Discussions
 Presentation
 ==========
 <iframe src="https://slides.com/changshen/multivariate/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-[See report here](/assets/doc/weather-forcast/VAR_MultivariateTimeSeriesAnalysis.pdf){: .btn .btn--info}
+
+
+
+[See report here](/assets/doc/weather-forcast/VAR_MultivariateTimeSeriesAnalysis.pdf){: .btn .btn--primary}
