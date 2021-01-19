@@ -2,8 +2,8 @@
 title: "Covid tweets NLP study"
 excerpt: "Ginger Gulp design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/covid-tweets-nlp-study/covid.jpg
+  teaser: assets/images/covid-tweets-nlp-study/covid.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -27,4 +27,6 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+<img src="/assets/gif/demo2.gif" width="800" height="800" />.
+<img src="/assets/gif/demo3.gif" width="800" height="800" />.
+<img src="/assets/gif/bert-tweets.gif" width="800" height="800" />.
