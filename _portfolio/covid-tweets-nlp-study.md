@@ -8,7 +8,7 @@ sidebar:
   - title: "Chang Shen"
     image: /assets/images/bio-photo.jpg
     image_alt: "logo"
-    text: "Self-motivated, dedicate to healthcare data science."
+    text: "Self-motivated, dedicate to data science in healthcare industry."
 ---
 
 About this project.
