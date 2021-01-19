@@ -16,6 +16,7 @@ gallery:
   - url: /assets/images/weather-forecasting/seasonality.png
     image_path: assets/images/weather-forecasting/seasonality.png
     alt: "placeholder image 1"
+gallery2:
   # - url: /assets/images/weather-forecasting/Stationary.png
   #   image_path: assets/images/weather-forecasting/Stationary.png
   #   alt: "placeholder image 2"
@@ -59,7 +60,8 @@ Methods and Discussions
   Long Short Term Memory (LSTM) networks are a special Recurrent Neural Network (RNN) that are capable of learning long-term dependencies. Here it was applied for leveraging the multivariate time series modeling problem.
 
 
-{% include gallery caption="detail" %}
+{% include gallery type="left" %}
+{% include gallery2 type="right" %}
 Presentation
 ==========
 <iframe src="https://slides.com/changshen/multivariate/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
