@@ -60,8 +60,8 @@ Methods and Discussions
   Long Short Term Memory (LSTM) networks are a special Recurrent Neural Network (RNN) that are capable of learning long-term dependencies. Here it was applied for leveraging the multivariate time series modeling problem.
 
 
-{% include gallery type="left" %}
-{% include gallery2 type="right" %}
+{% include gallery id="gallery" type="left" %}
+{% include gallery id="gallery2" type="right" %}
 Presentation
 ==========
 <iframe src="https://slides.com/changshen/multivariate/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
