@@ -5,22 +5,22 @@ header:
   image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/unsplash-gallery-image-2.jpg
   caption: "Photo credit: [Google](https://www.cushmanwakefield.com/en/australia/offices/sydney)"
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+# sidebar:
+#   - title: "Role"
+#     image: http://placehold.it/350x250
+#     image_alt: "logo"
+#     text: "Designer, Front-End Developer"
+#   - title: "Responsibilities"
+#     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/weather-forecasting/seasonality.png
+    image_path: assets/images/weather-forecasting/seasonality.png
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/weather-forecasting/Stationary.png
+    image_path: assets/images/weather-forecasting/Stationary.png
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/weather-forecasting/result.jpg
+    image_path: assets/images/weather-forecasting/result.jpg
     alt: "placeholder image 3"
 ---
 
@@ -30,7 +30,7 @@ Background
 Weather forecasting is the application of science and technology to predict the conditions of the atmosphere for a given location and time, it relates closely to Production activities, social activities and daily activities. Forecasting weather requires interdisciplinary knowledge. Traditionally, the weather forecasting models were made by collecting as much data as possible about the current state of the atmosphere (temperature, humidity, rainfall meteorology understanding and wind), this processing can be complicated and only valid to short term forecasting. 
 
 
-In this project, we applied time series analysis models to resolve the long term weather forecasting challenge. More details about the VAR/VARMA/LSTM models and the model evaluation and discussion are included in the report [here](/assets/doc/weather-forcast/VAR_MultivariateTimeSeriesAnalysis.pdf). 
+In this project, we applied time series analysis models to resolve the long term weather forecasting challenge. More details about the VAR/VARMA/LSTM models and the model evaluation and discussion are included in the report. 
 
 
 Exploratory Data Analysis 
@@ -42,9 +42,19 @@ A shiny App was built [here](https://changshen.shinyapps.io/shiny/).
 
 <img src="/assets/gif/demo-weather-forcasting.gif" width="800" height="800" />
 
-
+Methods and Discussions 
 ==========
+* **VAR(Vector Autoregression)**
+   A linear model designed for multivariate time series. It’s a generalization of the AR(Autoregression) model by including the capture of the linear interdependencies among multiple time series. A baseline model and a VAR with the seasonal dummy terms are modeled in this study where the order of time series models is determined with AIC/HQ/SC/FPE. 
+* **Model Diagnose**
+  Model assumption(Correlation/Heteroscedasticity/Normality) were validated.
+ 
+* **LSTM(Long Short Term Memory Neural Network)**
+  Long Short Term Memory (LSTM) networks are a special Recurrent Neural Network (RNN) that are capable of learning long-term dependencies. Here it was applied for leveraging the multivariate time series modeling problem.
+
 
 {% include gallery caption="detail" %}
-
+Presentation
+==========
 <iframe src="https://slides.com/changshen/multivariate/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[See report here](/assets/doc/weather-forcast/VAR_MultivariateTimeSeriesAnalysis.pdf){: .btn .btn--info}
