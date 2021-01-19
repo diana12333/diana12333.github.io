@@ -1,6 +1,6 @@
 ---
 title: "Covid tweets NLP study"
-excerpt: "Ginger Gulp design system including logo mark, website design, and branding applications."
+excerpt: "A "
 header:
   image: /assets/images/covid-tweets-nlp-study/covid.jpg
   teaser: assets/images/covid-tweets-nlp-study/covid.jpg
@@ -11,21 +11,16 @@ sidebar:
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+About this project.
+===========
+This research is meant to be a social behavior study focusing on the Coronavirus Tweets Text
+Mining and Sentiment Analysis and will be flexible to be transferred to other social media text datasets,
+representing and communicating the information with the public. We implemented several data visualization(**word frequency analysis**) and machine learning(**topic modeling LDA**)/deep learning algorithms(**Fine-tuned Bert**) for this analysis. 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+As a result, a website with these algorithms is deployed [here](https://bis634.herokuapp.com/)(Bert is temporarily not applicable here due to the package size limitation). To deploy a complete Covid tweets NLP API, you can check out the scource code [here]().
+
 
 <img src="/assets/gif/demo2.gif" width="800" height="800" />.
 <img src="/assets/gif/demo3.gif" width="800" height="800" />.
