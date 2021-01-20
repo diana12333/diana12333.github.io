@@ -5,6 +5,11 @@ header:
   image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/unsplash-gallery-image-2.jpg
   caption: "Photo credit: [Google](https://www.cushmanwakefield.com/en/australia/offices/sydney)"
+sidebar:
+  - title: "Chang Shen"
+    image: /assets/images/bio-photo.jpg
+    image_alt: "logo"
+    text: "Self-motivated, dedicate to data science in healthcare industry."
 # sidebar:
 #   - title: "Role"
 #     image: http://placehold.it/350x250
