@@ -6,7 +6,7 @@ share: true
 excerpt: "Several experiments for Bert Fine-Tuning. One is for IMDB reviews data, pre-trained BERT and LSTM were transfered to new sentiment analysis problem. Another is for machine translation, BERT was fine-tuned to handle the Seq2seq task."
 header:
   image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: /assets/images/foo-bar-identity.jpg
 sidebar:
   - title: "Chang Shen"
     image: /assets/images/bio-photo.jpg

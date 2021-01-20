@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-<link rel="shortcut icon" type="image/ico" href="assets/ico/yale.ico"/>
-* M.S. in Biostatistics, GitHub University, 2019-2021 (expected) 
-* B.S. in Statistics, Sun Yat-sen University, 2014-2018
+* M.S. in Biostatistics, **Yale University**, 2019-2021 (expected) 
+* B.S. in Statistics, **Sun Yat-sen University**, 2014-2018
 
 
 Work experience
