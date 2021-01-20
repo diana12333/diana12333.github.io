@@ -35,11 +35,23 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 gallery:
+    - url: /assets/gif/demo3.gif
+    image_path: assets/gif/demo3.gif
+    alt: "placeholder image 1"
+    - url: /assets/gif/bert-tweets.gif
+    image_path: assets/gif/bert-tweets.gif
+    alt: "placeholder image 2"
+    - url: /assets/gif/demo-weather-forcasting.gif
+    image_path: assets/gif/demo-weather-forcasting.gif
+    alt: "placeholder image 2"
     - url: /assets/images/gallery/BIS537_loveplot.jpg
       image_path: assets/images/gallery/BIS537_loveplot.jpg
       alt: "placeholder image 1"
     - url: /assets/images/gallery/BIS537_hw3.jpg
       image_path: assets/images/gallery/BIS537_hw3.jpg
+      alt: "placeholder image 2"
+    - url: /assets/images/gallery/BIS567.jpg
+      image_path: assets/images/gallery/BIS567.jpg
       alt: "placeholder image 2"
     - url: /assets/images/gallery/NN.jpg
       image_path: assets/images/gallery/NN.jpg
@@ -69,10 +81,10 @@ gallery:
     color:rgb(12, 12, 12)
   }
 </style>
-<!-- {% include paginator.html %} -->
-<h2 class="papp">Collections</h2><br/>
-<h4 class="papp">Check out detail in the portfolio page</h4>
-{% include feature_row %}
+{% include paginator.html %}
+<h2 class="papp">Collections</h2>
+<h3 class="papp">Check out detail in the portfolio page</h3>
+<!-- {% include feature_row %} -->
 {% include gallery  %}
 <!-- gallery:
   - url: /assets/images/gallery/map_new.gif
