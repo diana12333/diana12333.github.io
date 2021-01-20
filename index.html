@@ -46,12 +46,22 @@ gallery:
       alt: "placeholder image 3"      
 ---
 <style>
-  .pap {
+  .papp {
     font-family: "Papyrus", "Courier New", monospace;
-    color:rgb(255, 255, 255);
-    background:rgb(255, 255, 255)
+    color:rgb(12, 12, 12)
   }
 </style>
 {% include paginator.html %}
-<h2 class="pap">Collections</h2>
+<h2 class="papp">Collections</h2>
 {% include feature_row %}
+{% include gallery %}
+<!-- gallery:
+  - url: /assets/images/gallery/map_new.gif
+  image_path: assets/images/gallery/map_new.gif
+  alt: "placeholder image 1"
+  - url: /assets/images/gallery/calendar.jpg
+  image_path: assets/images/gallery/calendar.jpg
+  alt: "placeholder image 2"
+  - url: /assets/images/gallery/EmpricalPower1.png
+  image_path: assets/images/gallery/EmpricalPower1.png
+  alt: "placeholder image 3"  -->
