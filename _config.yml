@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Chang Shen"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "2nd Year M.S. in Biostatistics@Yale \n Data Science/Biostatistics/Bioinfomatics"
+  bio              : "2nd Year M.S. in Biostatistics@Yale \n Data Science/Biostatistics/Bioinfomatics/NLP"
   location         : "New Haven,CT"
   email            : "chang.shen@yale.edu"
   links:

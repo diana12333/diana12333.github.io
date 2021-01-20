@@ -4,11 +4,15 @@ excerpt: "A Data science project and Flask App for Covid Tweets and the API depl
 header:
   image: /assets/images/covid-tweets-nlp-study/covid.jpg
   teaser: assets/images/covid-tweets-nlp-study/covid.jpg
+  og_image: /assets/images/covid-tweets-nlp-study/covid.jpg
 sidebar:
   - title: "Chang Shen"
     image: /assets/images/bio-photo.jpg
     image_alt: "logo"
     text: "Self-motivated, dedicate to data science in healthcare industry."
+tags:
+  - NLP
+  - Flask
 ---
 
 About this project.
