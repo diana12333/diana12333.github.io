@@ -1,5 +1,5 @@
 ---
-title: "A/B testing and Product Learning Notes I"
+title: "AB testing and Product Learning Notes I"
 categories:
   - Edge Case
 tags:
