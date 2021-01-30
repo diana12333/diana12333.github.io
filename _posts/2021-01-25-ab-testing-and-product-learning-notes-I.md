@@ -22,4 +22,4 @@ tags:
   - [ ] Follow discussions
   - [x] Push new commits
 
-> Based on the book **Trustworthy Online controlled experiments**
+ Based on the book **Trustworthy Online controlled experiments**
