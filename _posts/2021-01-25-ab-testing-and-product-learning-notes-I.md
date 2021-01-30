@@ -10,7 +10,7 @@ tags:
   - markup
 ---
 
->  Based on the book **Trustworthy Online controlled experiments**
+
 
 
 
@@ -21,3 +21,5 @@ tags:
 - [ ] Open a pull request
   - [ ] Follow discussions
   - [x] Push new commits
+
+> Based on the book **Trustworthy Online controlled experiments**
