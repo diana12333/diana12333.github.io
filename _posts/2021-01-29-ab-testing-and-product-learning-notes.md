@@ -1,5 +1,5 @@
 ---
-title: "AB testing and Product Learning Notes I"
+title: "AB testing and Product Learning Notes"
 categories:
   - Post
 tags:
