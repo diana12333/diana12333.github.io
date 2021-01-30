@@ -1,7 +1,7 @@
 ---
 title: "AB testing and Product Learning Notes I"
 categories:
-  - Edge Case
+  - Post
 tags:
   - content
   - css
