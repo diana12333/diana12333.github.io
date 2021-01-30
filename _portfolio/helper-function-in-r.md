@@ -5,8 +5,8 @@ author_profile: false
 share: true
 excerpt: "Some R helper fuctions I wrote. Update: Emperical.power;plot.emperical.power;StrarifiedRandomize"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/random.jpg
+  teaser: /assets/images/random.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
