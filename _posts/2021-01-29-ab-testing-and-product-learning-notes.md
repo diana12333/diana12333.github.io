@@ -1,16 +1,16 @@
 ---
 title: "AB testing and Product Learning Notes"
+date: 2021-12-31
 categories:
-  - Post
+  - Notes
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - data science
+  - product
+  - interview
 ---
 
-
+### Introduction and Motivation
+#### Online controlled experiment
 
 
 
@@ -22,4 +22,4 @@ tags:
   - [ ] Follow discussions
   - [x] Push new commits
 
- Based on the book **Trustworthy Online controlled experiments**
+> Based on the book **Trustworthy Online controlled experiments**
