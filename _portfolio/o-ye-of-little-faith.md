@@ -22,10 +22,9 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Background and Introduction
+Forecasting next Old Faithful eruption time, with GMM model
 ===========
 
-<iframe src="https://diana12333.github.io/assets/pdf/OldFaithful_Final.pdf"></iframe>
+<iframe src="https://diana12333.github.io/assets/pdf/OldFaithful_Final.pdf" height="1000" width="600"></iframe>
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
 
