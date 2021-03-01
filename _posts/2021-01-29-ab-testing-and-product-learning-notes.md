@@ -20,6 +20,9 @@ tags:
   
   1.  Measurable in the short term 
   2.  Causally drive long-term strategic objective
+
+Metric teams: choosing metrics, validating metrics and evoleing metric over time 
+
  ### Motivation
  #### Case 1: 
   - Increase the user churn rate in a subscription business, e.g. Amazon Prime, Spotify memebership. To achieve this we may need to introduce a new feature and prove there is **causal relationship** between the new feature and the user churn rate. 
@@ -32,6 +35,14 @@ tags:
  #### Motivation:
  * Establish causality with high probability
  * Detect minor and unexpected changes 
+
+
+
+## Running and Analyzing the experiment 
+
+<u> Case study </u>
+
+* **Objective**
 
 
 
