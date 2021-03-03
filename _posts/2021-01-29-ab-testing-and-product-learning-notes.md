@@ -7,6 +7,8 @@ tags:
   - data science
   - product
   - interview
+toc: true
+toc_sticky: true
 ---
 
 ## Introduction and Motivation
