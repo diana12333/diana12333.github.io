@@ -10,6 +10,12 @@ tags:
 toc: true
 toc_sticky: true
 ---
+## Task Lists
+- [x] Introduction and the Motivation
+- [x] Runing and Analyzing Experiment: An end to end example 
+- [x] Experiment trustworthiness
+
+> Based on the book **Trustworthy Online controlled experiments**
 
 ## Introduction and Motivation
 ### **Online controlled experiment(A/B testing)**
@@ -42,7 +48,7 @@ Metric teams: choosing metrics, validating metrics and evolving metric over time
 
 ## Running and Analyzing the experiment 
 
-#### <u> Case study </u>
+####  Case study 
 
 * **Objective** marketing departments want to increase sales by sending coupon codes/ promotion code for discount.  by simply adding a coupon field at the check out page. We need to evaluate the effect of changing UI. Access the feasibility of the new business model.
 
@@ -79,20 +85,23 @@ Metric teams: choosing metrics, validating metrics and evolving metric over time
 
 * **Case 5**: practical significant and not statistical significant **repeat the experiment**
 
+
+
+
 ## Experiment Trustworthiness 
 
-#### **Extreme results**
+### **Extreme results**
 * **potential explanations**
   - instrumentation(logging)
   - computational error
   - loss of data
 
-#### **Misinterpretation of the result**
+### **Misinterpretation of the result**
 * **Common errors**
   - Lack of power
   - P-values interpretation: the level of marginal significance within a statistical hypothesis test representing the probability of the occurrence of a given event.
 
-#### **Multiple Comparisons**
+### **Multiple Comparisons**
 * **Common senarios** 
   - Multiple metrics
   - P-values over time
@@ -100,12 +109,12 @@ Metric teams: choosing metrics, validating metrics and evolving metric over time
   - multiple iterations
 
 
-#### **Confidential Interval**
+### **Confidential Interval**
 quantify the degree of uncertainty in the treatment effect
 
 Interpretation of CI: how often the CI computed from many studies would contain the true treatment effect.
 
-#### **Internal Validity**
+### **Internal Validity**
 * **SUTVA** -- no interection 
   - **exmaple of violations**: social networks;communication tools; collaboration tools; shared documentation; two-sided market(ebay/uber/lyft)
 
@@ -116,11 +125,11 @@ Interpretation of CI: how often the CI computed from many studies would contain 
   * Lossy instrumentation 
   * Residual or carryover effect
 
-#### **External Validity(Generalization)**
-#### **Primary Effect and Novelty effect**
+### **External Validity(Generalization)**
+### **Primary Effect and Novelty effect**
 * highlight by take the new users
 
-#### **Segementation**
+### **Segementation**
 * Market/Country
 * Device/Platform
 * Time of Day/Day of Week
@@ -128,7 +137,8 @@ Interpretation of CI: how often the CI computed from many studies would contain 
 * Single/Shared/Family
 > Conditional Average Treatment Effect in causal inference
 
-#### **Simpson Paradox**
+### **Simpson Paradox**
+
 <img src="https://latex.codecogs.com/svg.latex\small?&space;\frac{b}{a}<\frac{B}{A},\frac{d}{c}<\frac{D}{C},\frac{b+d}{a+c}>\frac{B+D}{A+C}"/> 
 
 * Possible reasons:
@@ -142,11 +152,4 @@ Interpretation of CI: how often the CI computed from many studies would contain 
 
 
 
-### Task Lists
 
-
-- [x] Introduction and the Motivation
-- [x] Runing and Analyzing Experiment: An end to end example 
-- [x] Experiment trustworthiness
-
-> Based on the book **Trustworthy Online controlled experiments**
