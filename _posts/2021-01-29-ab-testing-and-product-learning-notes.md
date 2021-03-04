@@ -46,6 +46,65 @@ Metric teams: choosing metrics, validating metrics and evolving metric over time
 
 
 
+## Experiment Trustworthiness 
+
+### **Extreme results**
+* **potential explanations**
+  - instrumentation(logging)
+  - computational error
+  - loss of data
+
+### **Misinterpretation of the result**
+* **Common errors**
+  - Lack of power
+  - P-values interpretation: the level of marginal significance within a statistical hypothesis test representing the probability of the occurrence of a given event.
+
+### **Multiple Comparisons**
+* **Common senarios** 
+  - Multiple metrics
+  - P-values over time
+  - Population segementation
+  - multiple iterations
+
+
+### **Confidential Interval**
+quantify the degree of uncertainty in the treatment effect
+
+Interpretation of CI: how often the CI computed from many studies would contain the true treatment effect.
+
+### **Internal Validity**
+* **SUTVA** -- no interection 
+  - **exmaple of violations**: social networks;communication tools; collaboration tools; shared documentation; two-sided market(ebay/uber/lyft)
+
+* **Intention to Treat**
+* **Survivorship Bias**
+* **Sample Ratio Mismatch(SRM)**
+  * Browser redirect
+  * Lossy instrumentation 
+  * Residual or carryover effect
+
+### **External Validity(Generalization)**
+### **Primary Effect and Novelty effect**
+* highlight by take the new users
+
+### **Segementation**
+* Market/Country
+* Device/Platform
+* Time of Day/Day of Week
+* User Type(new/existing/returning)
+* Single/Shared/Family
+> Conditional Average Treatment Effect in causal inference
+
+### **Simpson Paradox**
+
+<img src="https://latex.codecogs.com/svg.latex\small?&space;\frac{b}{a}<\frac{B}{A},\frac{d}{c}<\frac{D}{C},\frac{b+d}{a+c}>\frac{B+D}{A+C}"/> 
+
+* Possible reasons:
+  * Different Treatment/Control Assignment in different segementation.
+  * Sampled not uniform
+
+
+
 ## Running and Analyzing the experiment 
 
 ####  Case study 
@@ -88,5 +147,4 @@ Metric teams: choosing metrics, validating metrics and evolving metric over time
 
 
 
-## Experiment Trustworthiness 
 
