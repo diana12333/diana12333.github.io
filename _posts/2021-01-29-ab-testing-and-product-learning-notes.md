@@ -7,6 +7,8 @@ tags:
   - data science
   - product
   - interview
+toc: true
+toc_sticky: true
 ---
 
 ## Introduction and Motivation
@@ -77,7 +79,7 @@ Metric teams: choosing metrics, validating metrics and evolving metric over time
 
 * **Case 5**: practical significant and not statistical significant **repeat the experiment**
 
-##  Experiment Trustworthiness 
+## Experiment Trustworthiness 
 
 #### **Extreme results**
 * **potential explanations**
