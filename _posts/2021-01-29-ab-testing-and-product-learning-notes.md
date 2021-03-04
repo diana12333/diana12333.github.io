@@ -7,8 +7,6 @@ tags:
   - data science
   - product
   - interview
-toc: true
-toc_sticky: true
 ---
 
 ## Introduction and Motivation
@@ -78,8 +76,6 @@ Metric teams: choosing metrics, validating metrics and evolving metric over time
 * **Case four**: Confidence Interval is very wide, **Include more units** gain more power.
 
 * **Case 5**: practical significant and not statistical significant **repeat the experiment**
-
-
 
 ##  Experiment Trustworthiness 
 
