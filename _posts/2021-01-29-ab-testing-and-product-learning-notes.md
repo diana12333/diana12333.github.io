@@ -137,14 +137,6 @@ Interpretation of CI: how often the CI computed from many studies would contain 
 * Single/Shared/Family
 > Conditional Average Treatment Effect in causal inference
 
-### **Simpson Paradox**
-
-<img src="https://latex.codecogs.com/svg.latex\small?&space;\frac{b}{a}<\frac{B}{A},\frac{d}{c}<\frac{D}{C},\frac{b+d}{a+c}>\frac{B+D}{A+C}"/> 
-
-* Possible reasons:
-  * Different Treatment/Control Assignment in different segementation.
-  * Sampled not uniform
-
 
 
 
