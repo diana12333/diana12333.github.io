@@ -142,9 +142,4 @@ Interpretation of CI: how often the CI computed from many studies would contain 
 * **Case three**: have statistical significance but not practical significance **Discuss whether it worths it**.
 * **Case four**: Confidence Interval is very wide, **Include more units** gain more power.
 
-* **Case 5**: practical significant and not statistical significant **repeat the experiment**
-
-
-
-
-
+* **Case 5**: practical significant and not statistical significant **repeat the experiment**.
