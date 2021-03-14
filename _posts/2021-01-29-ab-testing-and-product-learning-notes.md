@@ -14,6 +14,7 @@ toc_sticky: true
 - [x] Introduction and the Motivation
 - [x] Runing and Analyzing Experiment: An end to end example 
 - [x] Experiment trustworthiness
+- [x] Organizational Metrics
 
 > Based on the book **Trustworthy Online controlled experiments**
 
@@ -103,7 +104,54 @@ Interpretation of CI: how often the CI computed from many studies would contain 
   * Different Treatment/Control Assignment in different segementation.
   * Sampled not uniform
 
+## Organizational Metrics
+### Goal Metrics (Sucess Metrics)
+May not be easy to move in the short term since each intiative may only have a very small impact on the metric or impacts take a long time to materialize. 
 
+Goal metrics should have the characteristic:
+* Simple 
+* Stable.
+
+### Driver Metrics (Sign post Metric)
+Shorter-term, fast-moving, more sensitive 
+* **HEART** Happiness, Engagement, Adoption, Rentention and Task Success
+* **AARRR!** Acqusition, Activation, Retention, Referral, Revenue
+
+Driver metrics should have the characteristics:
+* Aligned with the goal: driver of sucess
+* Actionable and relevant
+* Sensitive
+* Resistant to gaming 
+
+### Guardrail Metrics
+
+guard against violated assumptions, latency 
+
+* HTML response size per page
+* JS error per page 
+* Pageviews per user
+* Client crash
+
+### Other taxonomies
+* **Asset & Engagement**
+  
+  * Accumulation of static assets, total number of Facebook users/ total number of connection
+  * The value a user receives as a result of an action/ by others using the product, session/pageview 
+* **Business & Operational**
+  
+  * Track the health of business, Revenue per user/DAU
+  * Track operational concerns, Queries per second
+
+> we need to measure goal, driver, and guardrials at both company level and team level.
+
+> Aligning goal and driver metrics to overal business strategy
+
+> An increasing in latency of even a few milliseconds can result in revenue loss and a reuduction in user statisfaction.  
+
+> Unconstrained metrics are gameable 
+
+### Evaludating Metrics
+Establishing the causal relationship of driver metrics to organizational goal 
 
 ## Running and Analyzing the experiment 
 
