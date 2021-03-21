@@ -1,5 +1,5 @@
 ---
-title: "Covid tweets NLP study"
+title: "Detecting Sentiment Shifts in Coronavirus Tweet"
 excerpt: "A Data science project and Flask App for Covid Tweets and the API deployed based on this study. The dataset I am using it’s a coronavirus tweets text data from Kaggle public data Repositories Coronavirus tweets NLP - Text Classification."
 header:
   image: /assets/images/covid-tweets-nlp-study/covid.jpg
