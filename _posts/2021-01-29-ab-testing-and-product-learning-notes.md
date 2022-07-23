@@ -12,7 +12,7 @@ toc_sticky: true
 ---
 ## Task Lists
 - [x] Introduction and the Motivation
-- [x] Runing and Analyzing Experiment: An end to end example 
+- [x] Running and Analyzing Experiment: An end to end example 
 - [x] Experiment trustworthiness
 - [x] Organizational Metrics
 
